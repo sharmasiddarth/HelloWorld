@@ -2,7 +2,7 @@
 
 This is my first git repository
 
-
+This is a first project using git 
 
 ## Project Contents
 
